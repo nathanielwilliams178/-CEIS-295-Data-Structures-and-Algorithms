@@ -14,10 +14,10 @@ int main()
 	spellchecker.readDictionaryFile(dicttext);
 	spellchecker.Checkfile(sampletext);
 
+	std::cout << "This is a test" << '\n';
+
 
 
 	return 0;
 
 }
-
-
